@@ -22,15 +22,9 @@ WIP.
 
 ### Source code
 
-zkMove VM
+[zkMove](https://github.com/young-rocks/zkmove)
 
-zkMove VM Circuit
-
-zkMove TDS Node
-
-zkMove TDS Contracts
-
-(see https://github.com/young-rocks/zkmove)
+[zkMove TDS](https://github.com/young-rocks/tds-node)
 
 ### Demo
 
