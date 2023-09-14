@@ -24,7 +24,7 @@ WIP.
 
 [zkMove](https://github.com/young-rocks/zkmove)
 
-[zkMove TDS](https://github.com/young-rocks/tds-node)
+[zkMove TDS](https://github.com/young-rocks/agger)
 
 ### Demo
 
